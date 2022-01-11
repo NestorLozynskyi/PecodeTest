@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ellipse_size">166dp</dimen>
+    <dimen name="ellipse_marginTop">143dp</dimen>
+    <dimen name="btn_size">56dp</dimen>
+
+    <dimen name="btn_push_text_size">20sp</dimen>
+    <dimen name="num_fragment_text_size">24sp</dimen>
+</resources>
